@@ -1,0 +1,2 @@
+Question: does Go support multiprocessing well? 
+I found several articles explaining how the design of Go supports multithreading well, but not a lot of them cover Go for multiprocessing. Multiprocessing is also left out in the Go tutorial.
